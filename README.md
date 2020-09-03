@@ -1,2 +1,2 @@
 # instagram
-instagram feed html/css
+instagram feed html css
